@@ -1,0 +1,48 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+  <path
+      android:pathData="M15,8L81,8A7,7 0,0 1,88 15L88,81A7,7 0,0 1,81 88L15,88A7,7 0,0 1,8 81L8,15A7,7 0,0 1,15 8z"
+      android:fillColor="#753BA4"/>
+  <path
+      android:pathData="M15,8.75L81,8.75A6.25,6.25 0,0 1,87.25 15L87.25,81A6.25,6.25 0,0 1,81 87.25L15,87.25A6.25,6.25 0,0 1,8.75 81L8.75,15A6.25,6.25 0,0 1,15 8.75z"
+      android:strokeWidth="1.5"
+      android:fillColor="#00000000"
+      android:strokeColor="#000000"/>
+  <path
+      android:pathData="M58,8h7v80h-7z"
+      android:fillColor="#ffffff"
+      android:fillAlpha="0.1"/>
+  <path
+      android:pathData="M71,8h7v80h-7z"
+      android:fillColor="#ffffff"
+      android:fillAlpha="0.1"/>
+  <path
+      android:pathData="M16,13L80,13A3,3 0,0 1,83 16L83,80A3,3 0,0 1,80 83L16,83A3,3 0,0 1,13 80L13,16A3,3 0,0 1,16 13z"
+      android:fillColor="#CDABFF"/>
+  <path
+      android:pathData="M16,13L80,13A3,3 0,0 1,83 16L83,80A3,3 0,0 1,80 83L16,83A3,3 0,0 1,13 80L13,16A3,3 0,0 1,16 13z"
+      android:fillAlpha="0.5">
+    <aapt:attr name="android:fillColor">
+      <gradient
+          android:startX="14.5"
+          android:startY="48"
+          android:endX="81.5"
+          android:endY="48"
+          android:type="linear">
+        <item android:offset="0" android:color="#00FFFFFF"/>
+        <item android:offset="0.415" android:color="#4CFFFFFF"/>
+        <item android:offset="0.592" android:color="#4CFFFFFF"/>
+        <item android:offset="1" android:color="#00FFFFFF"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+<!--  <path-->
+<!--      android:pathData="M16,13L80,13A3,3 0,0 1,83 16L83,80A3,3 0,0 1,80 83L16,83A3,3 0,0 1,13 80L13,16A3,3 0,0 1,16 13z"-->
+<!--      android:strokeWidth="2"-->
+<!--      android:fillColor="#00000000"-->
+<!--      android:strokeColor="#292B34"/>-->
+</vector>

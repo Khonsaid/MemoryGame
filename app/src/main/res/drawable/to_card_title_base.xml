@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:width="240dp"
+    android:height="80dp"
+    android:viewportWidth="150"
+    android:viewportHeight="50"
+    tools:ignore="VectorRaster">
+    <path
+        android:fillColor="#EC279E"
+        android:pathData="M0.5,4C0.5,2.07 2.07,0.5 4,0.5H146C147.93,0.5 149.5,2.07 149.5,4V31.2C149.5,32.86 148.34,34.29 146.71,34.63L78.96,48.67C76.35,49.21 73.65,49.21 71.04,48.67L3.29,34.63C1.67,34.29 0.5,32.86 0.5,31.2V4Z"
+        android:strokeWidth="1"
+        android:strokeColor="#000000" />
+    <path android:pathData="M1,4C1,2.34 2.34,1 4,1H146C147.66,1 149,2.34 149,4V27.74C149,29.63 147.69,31.25 145.85,31.65L79.23,46.08C76.44,46.69 73.56,46.69 70.77,46.08L4.15,31.65C2.31,31.25 1,29.63 1,27.74V4Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:endX="149"
+                android:endY="13.5"
+                android:startX="1"
+                android:startY="13.5"
+                android:type="linear">
+                <item
+                    android:color="#FFFA3EB4"
+                    android:offset="0" />
+                <item
+                    android:color="#FFFF83DC"
+                    android:offset="0.51" />
+                <item
+                    android:color="#FFFA3EB4"
+                    android:offset="1" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M1.5,4C1.5,2.62 2.62,1.5 4,1.5H146C147.38,1.5 148.5,2.62 148.5,4V27.74C148.5,29.39 147.35,30.82 145.74,31.16L79.13,45.59C76.41,46.18 73.59,46.18 70.87,45.59L4.26,31.16C2.65,30.82 1.5,29.39 1.5,27.74V4Z"
+        android:strokeWidth="1"
+        android:strokeAlpha="0.7"
+        android:strokeColor="#ffffff" />
+    <path
+        android:fillAlpha="0.2"
+        android:fillColor="#F5F5F5"
+        android:fillType="evenOdd"
+        android:pathData="M149,7.03C132.82,10.65 106.6,13 77,13C44.82,13 16.63,10.22 1,6.05V4C1,2.34 2.34,1 4,1H146C147.66,1 149,2.34 149,4V7.03Z" />
+</vector>
